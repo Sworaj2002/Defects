@@ -43,6 +43,16 @@ ensuring streamlined defect tracking and resolution.
   - Pending defects.
   - Completed defects.
 
+### 📧 Email Notifications
+- Automatic email sent to the **assigned developer** when a new defect is added.  
+- Notifications include defect details such as:
+  - Defect Name
+  - Assigned By
+  - Priority
+  - Status  
+- Ensures developers are immediately informed of new assignments.
+
+
 ---
 
 ## 🛠️ Tech Stack
@@ -53,4 +63,12 @@ ensuring streamlined defect tracking and resolution.
 
 ---
 
+## 🛠️ screenshots
+<img width="1360" height="631" alt="Screenshot 2025-08-24 214517" src="https://github.com/user-attachments/assets/2efac51c-ff5f-4e40-8a04-288e6c7a45f5" />
+<img width="1184" height="630" alt="Screenshot 2025-08-24 214610" src="https://github.com/user-attachments/assets/cfc5cfdf-a65c-4bc7-b406-ecfd13083b06" />
+<img width="1310" height="633" alt="Screenshot 2025-08-24 214706" src="https://github.com/user-attachments/assets/1f87423c-86ec-4095-be10-d51b888ae998" />
+<img width="1340" height="630" alt="Screenshot 2025-08-24 214726" src="https://github.com/user-attachments/assets/e9e1d478-622b-4803-bb7b-964d17d56cbf" />
+<img width="1351" height="627" alt="Screenshot 2025-08-24 214754" src="https://github.com/user-attachments/assets/d8a4115e-fa4c-48d5-97bb-31ac61365418" />
 
+
+-- end --
