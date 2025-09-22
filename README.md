@@ -14,7 +14,7 @@ ensuring streamlined defect tracking and resolution.
 - **Register & Login** functionality for:
   - Developers
   - Testers
-- **Super Admin** and **Tester Admin** roles with extended permissions.
+- **Super Admin** and **Tester Admin** roles with extended permissions
 
 ### 🧾 Defects Management
 - **List of All Defects** in a centralized table.
